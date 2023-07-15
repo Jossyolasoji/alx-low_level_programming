@@ -30,6 +30,6 @@ int main(void)
 	}
 	}
 	}
-	putchae('\n');
+	putchar('\n');
 	return (0);
 }
